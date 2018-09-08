@@ -17,7 +17,7 @@ namespace xazcore.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page. ";
+            ViewData["Message"] = "NME application description page. ";
 
             return View();
         }
