@@ -12,6 +12,7 @@ namespace xazcore.Controllers
     {
         public IActionResult Index()
         {
+            var x = "";
             return View();
         }
 
